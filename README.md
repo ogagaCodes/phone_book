@@ -27,3 +27,7 @@ NB: While project was set up for extensibiltiy and additon of other functionalit
 
 Happy Hacking!!!!!!!!
 
+## Screen Shots from test
+
+![image](https://user-images.githubusercontent.com/45229900/160276484-08ea7f19-73e0-457c-a8b0-bd018386117b.png)
+![image](https://user-images.githubusercontent.com/45229900/160276498-31418020-c0b7-46b3-a3bf-3ef668b81ea6.png)
