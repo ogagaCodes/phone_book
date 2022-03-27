@@ -23,7 +23,8 @@ It uses the TRIE data structure for a constant time search O(N) and insertion
 
 
 NB: While project was set up for extensibiltiy and additon of other functionalites, the main algorithm can be found in the src/app/modules/repository/models folder
-
+### Note
+You will find more info on the design pattern and choice of data structure in the src/app/modules/phoneBook/Algporithm?info.txt 
 
 Happy Hacking!!!!!!!!
 
