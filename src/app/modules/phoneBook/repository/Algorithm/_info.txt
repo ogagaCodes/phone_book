@@ -1,0 +1,38 @@
+Brief Description
+==================
+
+A simplephpone bookimplementation in javscript
+
+Data structure
+==============
+
+The TRIE data Structure was used for easy look up and beter directory structure presentation
+
+The trie data structure along with javascript inbuilt map object furnishes a classical and very efficient way of building a phone book,
+ which can be extende tio have othge rfunctionalities.
+
+
+
+
+Running Project
+================
+Run the command 
+ node index
+  There is sample data which is loadeed(seeded into system
+ when the command node index is run on your trminal)
+ or testing purpose there is a duplicate entry so in your console expect only 5 entries to be seede..
+ If you need more remove duplicate entry on line 37
+
+
+IMPROVEMENTS
+==============
+improvements can be made in the following
+1. Inserting unique names(User experience )
+2. Exposing of endpoints for passing data through forms
+
+
+                                Happy Hacking        
+                                    --    --
+                                       --
+                                      ----
+                                      ..... 

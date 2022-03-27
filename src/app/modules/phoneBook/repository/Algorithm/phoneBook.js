@@ -1,7 +1,7 @@
 
 class PhoneBookModel {
   constructor() {
-     this.directory = new Map();
+     this.phone_records = new Map();
      this.isLast = false;
   }
 

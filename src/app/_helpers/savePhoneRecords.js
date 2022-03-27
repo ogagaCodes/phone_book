@@ -12,7 +12,7 @@ exports.savePhoneRecord = async (data) => {
       let ArrayData = JSON.parse(fileData);
       const newDataPayload = ArrayData.push(data)
       let JSONData = JSON.stringify(newDataPayload);
-       await fs.writeFile(store, JSONData, 'utf8');
+       await fs_writeFile(store, JSONData, 'utf8');
        console.log("Phone Record Saved")
     } catch (error) {
         throw error;
